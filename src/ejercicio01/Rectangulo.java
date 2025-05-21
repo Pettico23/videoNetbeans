@@ -35,10 +35,9 @@ public class Rectangulo {
         return result;
     
     }
-    public double calularPerimetro{
-        double result
-        result = 
-        return result;
+    public double calularPerimetro(double largo,double ancho){
+        
+        return 2 * (largo + ancho);
         
 
     }

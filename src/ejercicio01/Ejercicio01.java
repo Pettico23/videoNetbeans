@@ -11,8 +11,9 @@ public class Ejercicio01 {
        
        //Salida a consola
         System.out.println("El area es: " + unRectangulo.calcularArea());
-        System.out.println("El perimetro es:" + unRectangulo.);
+        System.out.println("El perimetro es:" + Rectangulo.calularPerimetro());
         System.out.println("¿Es Cuadrado?" + unRectangulo.esCuadrado());
+        System.out.println("--------------------------------------------------");
     }
     
 }
